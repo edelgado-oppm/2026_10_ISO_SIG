@@ -1,0 +1,64 @@
+{
+  "fecha": "2026-10-23T17:58:35.350Z",
+  "modo": "Chrome headless, file://, offline:true",
+  "resultados": [
+    {
+      "prueba": "file:// con navegador offline: 112 incorporados, 99 SGC iniciales",
+      "estado": "OK"
+    },
+    {
+      "prueba": "KPIs SGC sin doble conteo y solo riesgos en alto/crítico",
+      "estado": "OK"
+    },
+    {
+      "prueba": "Ficha real IGP-033: texto íntegro, evaluaciones separadas y retorno con filtros",
+      "estado": "OK"
+    },
+    {
+      "prueba": "Ficha real IGP-008: texto íntegro, evaluaciones separadas y retorno con filtros",
+      "estado": "OK"
+    },
+    {
+      "prueba": "Ficha real IGP-097: texto íntegro, evaluaciones separadas y retorno con filtros",
+      "estado": "OK"
+    },
+    {
+      "prueba": "Búsqueda insensible a tildes",
+      "estado": "OK"
+    },
+    {
+      "prueba": "Filtro por proceso aplica a la base única de indicadores, gráficos y tabla",
+      "estado": "OK"
+    },
+    {
+      "prueba": "Multiselección OR dentro de una dimensión",
+      "estado": "OK"
+    },
+    {
+      "prueba": "KPI clicable excluye oportunidades inconsistentes",
+      "estado": "OK"
+    },
+    {
+      "prueba": "CSV limitado al subconjunto filtrado",
+      "estado": "OK"
+    },
+    {
+      "prueba": "Conjunto vacío sin indicadores residuales",
+      "estado": "OK"
+    },
+    {
+      "prueba": "Diseño móvil sin desbordamiento horizontal de página",
+      "estado": "OK"
+    },
+    {
+      "prueba": "17 archivos por proceso: IDs, textos y relaciones exactos; sin IDs ajenos en HTML",
+      "estado": "OK"
+    },
+    {
+      "prueba": "Cero errores JavaScript y cero solicitudes de red en apertura e interacción offline",
+      "estado": "OK"
+    }
+  ],
+  "errores": [],
+  "solicitudes_red": []
+}

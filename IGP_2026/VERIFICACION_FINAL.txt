@@ -1,0 +1,5 @@
+OK — Navegación por teclado: Enter, Espacio y Escape; foco conservado tras filtro.
+OK — Orden por ID y paginación.
+OK — Sin scripts, CSS, fuentes, imágenes remotas ni APIs de conexión o almacenamiento.
+OK — Pruebas del lector con datos reales, relaciones, 17 ámbitos y codificación segura.
+OK — Revisión visual de escritorio, móvil y las 8 páginas A4 de la ficha IGP-033.

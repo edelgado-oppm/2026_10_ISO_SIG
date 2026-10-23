@@ -1,0 +1,19 @@
+IGP | Riesgos y oportunidades — Preparación para auditoría ISO
+
+1. Guarda el HTML recibido de OPPM en tu equipo. Haz doble clic y ábrelo con Chrome o Edge. No necesitas internet, Excel ni instalar herramientas.
+
+2. Comprueba el «Ámbito de consulta» y la fecha de corte. La vista inicial corresponde al SGC. Solo puedes consultar los datos incorporados en tu archivo.
+
+3. Elige tipo, proceso (si corresponde), partes interesadas o unidad. Puedes buscar dentro de las listas y marcar varias opciones. Los criterios se combinan. «Limpiar filtros» restaura la vista inicial.
+
+4. Busca por ID, descripción o actividades. Revisa los indicadores y pulsa «Ver ficha para auditoría». En pantallas pequeñas, desliza la tabla horizontalmente para ver las últimas columnas.
+
+5. En la ficha, localiza «Actividades 2025», «Seguimiento», «Eficacia» y «Trazabilidad». Los textos completos están disponibles. «Volver al listado» conserva tus filtros. «Imprimir ficha» permite imprimir o guardar como PDF, en A4.
+
+6. «Exportar resumen CSV» descarga solamente los registros que coinciden con tus filtros. «Ayuda» explica los términos principales.
+
+La eficacia, el resultado del control y el seguimiento son evaluaciones distintas. Las alertas indican aspectos por revisar; no afirman incumplimiento ISO. La evidencia está declarada en la matriz: ten a mano los soportes originales para la entrevista.
+
+Este archivo es de uso interno. No lo publiques ni lo reenvíes fuera del ámbito autorizado. No edita la matriz y no se actualiza automáticamente.
+
+Para consultar la información actualizada, solicita a OPPM la nueva versión del dashboard.

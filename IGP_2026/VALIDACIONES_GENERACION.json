@@ -1,0 +1,445 @@
+{
+  "metadatos": {
+    "corte": "2026-10-22",
+    "generacion": "2026-10-23T12:55:20-05:00",
+    "sha256": "66d28fbd7afdd565d88a10fa591ea85c2c91de693b0b3e9ca7dd4186b19adea0",
+    "fuente": "Fuente_Dashboard_ISO_IGP_2026.xlsx"
+  },
+  "controles": [
+    {
+      "control": "registros",
+      "real": 112,
+      "referencia": 112,
+      "estado": "OK"
+    },
+    {
+      "control": "riesgos",
+      "real": 95,
+      "referencia": 95,
+      "estado": "OK"
+    },
+    {
+      "control": "oportunidades",
+      "real": 17,
+      "referencia": 17,
+      "estado": "OK"
+    },
+    {
+      "control": "sgc",
+      "real": 99,
+      "referencia": 99,
+      "estado": "OK"
+    },
+    {
+      "control": "riesgos_sgc",
+      "real": 86,
+      "referencia": 86,
+      "estado": "OK"
+    },
+    {
+      "control": "oportunidades_sgc",
+      "real": 13,
+      "referencia": 13,
+      "estado": "OK"
+    },
+    {
+      "control": "censis",
+      "real": 77,
+      "referencia": 77,
+      "estado": "OK"
+    },
+    {
+      "control": "cenvul",
+      "real": 63,
+      "referencia": 63,
+      "estado": "OK"
+    },
+    {
+      "control": "segmentos_auxiliares",
+      "real": 202,
+      "referencia": 202,
+      "estado": "OK"
+    },
+    {
+      "control": "bajos",
+      "real": 30,
+      "referencia": 30,
+      "estado": "OK"
+    },
+    {
+      "control": "moderados",
+      "real": 55,
+      "referencia": 55,
+      "estado": "OK"
+    },
+    {
+      "control": "altos",
+      "real": 1,
+      "referencia": 1,
+      "estado": "OK"
+    },
+    {
+      "control": "criticos",
+      "real": 0,
+      "referencia": 0,
+      "estado": "OK"
+    }
+  ],
+  "archivos": [
+    {
+      "archivo": "salidas/administracion/Dashboard_IGP_Institucional.html",
+      "ids_autorizados": [
+        "IGP-007",
+        "IGP-008",
+        "IGP-009",
+        "IGP-010",
+        "IGP-011",
+        "IGP-012",
+        "IGP-013",
+        "IGP-014",
+        "IGP-015",
+        "IGP-016",
+        "IGP-017",
+        "IGP-018",
+        "IGP-019",
+        "IGP-020",
+        "IGP-021",
+        "IGP-022",
+        "IGP-023",
+        "IGP-024",
+        "IGP-025",
+        "IGP-026",
+        "IGP-027",
+        "IGP-028",
+        "IGP-029",
+        "IGP-030",
+        "IGP-031",
+        "IGP-032",
+        "IGP-033",
+        "IGP-034",
+        "IGP-035",
+        "IGP-036",
+        "IGP-037",
+        "IGP-038",
+        "IGP-039",
+        "IGP-040",
+        "IGP-041",
+        "IGP-042",
+        "IGP-043",
+        "IGP-044",
+        "IGP-045",
+        "IGP-046",
+        "IGP-047",
+        "IGP-048",
+        "IGP-049",
+        "IGP-050",
+        "IGP-051",
+        "IGP-052",
+        "IGP-053",
+        "IGP-054",
+        "IGP-055",
+        "IGP-056",
+        "IGP-057",
+        "IGP-058",
+        "IGP-059",
+        "IGP-060",
+        "IGP-061",
+        "IGP-062",
+        "IGP-063",
+        "IGP-064",
+        "IGP-065",
+        "IGP-066",
+        "IGP-067",
+        "IGP-068",
+        "IGP-069",
+        "IGP-070",
+        "IGP-071",
+        "IGP-072",
+        "IGP-073",
+        "IGP-074",
+        "IGP-075",
+        "IGP-076",
+        "IGP-077",
+        "IGP-078",
+        "IGP-079",
+        "IGP-080",
+        "IGP-081",
+        "IGP-082",
+        "IGP-083",
+        "IGP-084",
+        "IGP-085",
+        "IGP-086",
+        "IGP-087",
+        "IGP-088",
+        "IGP-089",
+        "IGP-090",
+        "IGP-091",
+        "IGP-092",
+        "IGP-093",
+        "IGP-094",
+        "IGP-095",
+        "IGP-096",
+        "IGP-097",
+        "IGP-098",
+        "IGP-099",
+        "IGP-100",
+        "IGP-101",
+        "IGP-102",
+        "IGP-103",
+        "IGP-104",
+        "IGP-105",
+        "IGP-106",
+        "IGP-107",
+        "IGP-108",
+        "IGP-109",
+        "IGP-110",
+        "IGP-111",
+        "IGP-112",
+        "IGP-113",
+        "IGP-114",
+        "IGP-115",
+        "IGP-116",
+        "IGP-117",
+        "IGP-118"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/comunicaciones-85090d/Dashboard_Auditoria_comunicaciones-85090d.html",
+      "ids_autorizados": [
+        "IGP-007",
+        "IGP-008",
+        "IGP-009",
+        "IGP-010",
+        "IGP-011"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/control-interno-7afbdf/Dashboard_Auditoria_control-interno-7afbdf.html",
+      "ids_autorizados": [
+        "IGP-012"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/gestion-contable-898a26/Dashboard_Auditoria_gestion-contable-898a26.html",
+      "ids_autorizados": [
+        "IGP-020",
+        "IGP-021",
+        "IGP-022"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/gestion-presupuestal-966691/Dashboard_Auditoria_gestion-presupuestal-966691.html",
+      "ids_autorizados": [
+        "IGP-025",
+        "IGP-026"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/gestion-de-abastecimiento-86fd64/Dashboard_Auditoria_gestion-de-abastecimiento-86fd64.html",
+      "ids_autorizados": [
+        "IGP-013",
+        "IGP-014",
+        "IGP-015",
+        "IGP-016",
+        "IGP-017",
+        "IGP-018",
+        "IGP-019"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/gestion-de-recursos-humano-de7aa5/Dashboard_Auditoria_gestion-de-recursos-humano-de7aa5.html",
+      "ids_autorizados": [
+        "IGP-028",
+        "IGP-029",
+        "IGP-030",
+        "IGP-031"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/gestion-de-tecnologias-de--beac17/Dashboard_Auditoria_gestion-de-tecnologias-de--beac17.html",
+      "ids_autorizados": [
+        "IGP-032",
+        "IGP-033",
+        "IGP-034",
+        "IGP-035",
+        "IGP-036",
+        "IGP-037",
+        "IGP-038",
+        "IGP-039",
+        "IGP-040",
+        "IGP-041",
+        "IGP-042",
+        "IGP-043",
+        "IGP-044",
+        "IGP-045",
+        "IGP-046",
+        "IGP-047",
+        "IGP-048",
+        "IGP-049",
+        "IGP-050",
+        "IGP-051",
+        "IGP-052"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/gestion-de-tesoreria-62e58b/Dashboard_Auditoria_gestion-de-tesoreria-62e58b.html",
+      "ids_autorizados": [
+        "IGP-023",
+        "IGP-024",
+        "IGP-027"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/operaciones-y-mantenimient-524754/Dashboard_Auditoria_operaciones-y-mantenimient-524754.html",
+      "ids_autorizados": [
+        "IGP-056"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/operaciones-y-mantenimient-562286/Dashboard_Auditoria_operaciones-y-mantenimient-562286.html",
+      "ids_autorizados": [
+        "IGP-053",
+        "IGP-059",
+        "IGP-060",
+        "IGP-061",
+        "IGP-062",
+        "IGP-063"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/operaciones-y-mantenimient-b49ee4/Dashboard_Auditoria_operaciones-y-mantenimient-b49ee4.html",
+      "ids_autorizados": [
+        "IGP-054",
+        "IGP-055",
+        "IGP-057",
+        "IGP-058"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/planificacion-estrategica-510300/Dashboard_Auditoria_planificacion-estrategica-510300.html",
+      "ids_autorizados": [
+        "IGP-065",
+        "IGP-066",
+        "IGP-067",
+        "IGP-068",
+        "IGP-069"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/planificacion-y-direccion-8bba5b/Dashboard_Auditoria_planificacion-y-direccion-8bba5b.html",
+      "ids_autorizados": [
+        "IGP-064",
+        "IGP-070",
+        "IGP-071",
+        "IGP-072",
+        "IGP-073"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/procesamiento-de-datos-y-g-72f1ea/Dashboard_Auditoria_procesamiento-de-datos-y-g-72f1ea.html",
+      "ids_autorizados": [
+        "IGP-074",
+        "IGP-075",
+        "IGP-076",
+        "IGP-077",
+        "IGP-078",
+        "IGP-079",
+        "IGP-080",
+        "IGP-081",
+        "IGP-082",
+        "IGP-083",
+        "IGP-084",
+        "IGP-085",
+        "IGP-086",
+        "IGP-087",
+        "IGP-088",
+        "IGP-089",
+        "IGP-090",
+        "IGP-091",
+        "IGP-092"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/procesamiento-de-datos-y-g-b90b4f/Dashboard_Auditoria_procesamiento-de-datos-y-g-b90b4f.html",
+      "ids_autorizados": [
+        "IGP-093",
+        "IGP-094",
+        "IGP-095",
+        "IGP-096",
+        "IGP-097",
+        "IGP-098",
+        "IGP-099",
+        "IGP-100",
+        "IGP-101",
+        "IGP-102",
+        "IGP-103",
+        "IGP-104",
+        "IGP-105",
+        "IGP-106",
+        "IGP-107",
+        "IGP-108"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/sistema-de-gestion-de-cali-dda2d4/Dashboard_Auditoria_sistema-de-gestion-de-cali-dda2d4.html",
+      "ids_autorizados": [
+        "IGP-109",
+        "IGP-110",
+        "IGP-111",
+        "IGP-112",
+        "IGP-113",
+        "IGP-114"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    },
+    {
+      "archivo": "salidas/auditados/sistema-de-gestion-de-segu-361dfd/Dashboard_Auditoria_sistema-de-gestion-de-segu-361dfd.html",
+      "ids_autorizados": [
+        "IGP-115",
+        "IGP-116",
+        "IGP-117",
+        "IGP-118"
+      ],
+      "integridad_textos": "OK",
+      "relaciones_y_aislamiento": "OK"
+    }
+  ],
+  "advertencias": [
+    "Los nombres volcanes/VOLCANES se conservan como procesos distintos.",
+    "Las fechas se contrastan con el corte explícito.",
+    "La suma de marcas no equivale al total único."
+  ]
+}
